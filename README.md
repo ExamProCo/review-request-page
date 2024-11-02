@@ -15,6 +15,8 @@ Let AI and cloud vendors know what they can pay Andrew to review their products
 - Easy way to export chat history to audit the effectiveness with humans.
 - How would I evaluate other than human review that the website/web-app I wanted met my technical and business use case.
 - I wish I could have my technical doc updated.
+- I want to hook up the code to existing repo
+- I understand not offering the code preview in free, but in paid I would want code preview before syncing.
 
 ## Prompt Engingeer History
 
