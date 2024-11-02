@@ -18,6 +18,7 @@ Let AI and cloud vendors know what they can pay Andrew to review their products
 - I want to hook up the code to existing repo
 - I understand not offering the code preview in free, but in paid I would want code preview before syncing.
 - When syncing I'd like tell put someone other than the root project eg. app
+- The other reason I dont want to tweak by talking and I'd rather constantly dump my golden tech doc is because I know that as the context window grows summarzation happens and the results can get worst.
 
 ## Prompt Engingeer History
 
