@@ -82,8 +82,6 @@ The website should be built with the following tech stack:
 
 AI or Cloud tech companies that want a content creator to create a video review for their service or product for a price
 
-## 
-
 # Reference Websites
 
 These reference either contain pay for review websites that we can draw inspiration or inquiry about pay for review services:
